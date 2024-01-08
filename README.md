@@ -43,7 +43,7 @@ Hey Guys 👋, I'm Bilal, An undergradute Computer Systems Engineering student a
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bilal0718&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal0718&theme=dracula"  width=60% />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal0718&theme=dracula" width=60% />
 
 
  
